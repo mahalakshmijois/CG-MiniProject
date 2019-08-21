@@ -1,0 +1,2 @@
+# CG-MiniProject
+LRU PageReplacement
